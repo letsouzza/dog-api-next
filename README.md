@@ -1,6 +1,6 @@
 # Galeria de Cachorro
 
-![](./dog-api/public/dogs.png)
+![](../dog-api/public/dogs.png)
 
 ---
 
