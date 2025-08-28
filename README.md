@@ -4,12 +4,12 @@
 
 ---
 
-### Sobre o projeto:
+## Sobre o projeto:
 * Criar uma galeria web com fotos de cachorros, utilizando a DogAPI. Utilizar o framework next.js. Essa tecnologia facilita o processo de desenvolvimento da aplicação.
 
 ---
 
-### Metodologia
+## Metodologia
 1. Instalação do Node.js, no mínimo versão 16
 2. Instalação do Next.JS. Utilizando o comando:
 ```bash 
@@ -26,13 +26,13 @@ npm run dev
 
 ---
 
-### Estrutura utilizada
+## Estrutura utilizada
 
 ![](./public/estrutura-arquivos.png)
 
 ---
 
-### Consumo API 
+## Consumo API 
 * Endpoint da DogAPI
 
     ```GET https://dog.ceo/api/breed/{raca}/images```
@@ -81,7 +81,7 @@ export default function DogGallery() {
 ---
 
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="20" alt="Next.JS"> Next.JS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="20" alt="Node.JS"> Node.JS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"height="20" alt="HTML"> HTML</li>
@@ -92,20 +92,20 @@ export default function DogGallery() {
 
 ---
 
-### Apresentação e documentação do Next
+## Apresentação e documentação do Next
 
 * [Apresentação Canva](https://www.canva.com/design/DAGwERDoaxE/j4ciSxE733dV-SqEmXg4WA/edit?utm_content=DAGwERDoaxE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * [Documentação Next.JS](https://nextjs.org/docs)
 
 ---
 
-### Render
+## Render
 Acesse nosso projeto através de [Dog-API](https://dog-api-next.onrender.com) 
 
 ---
 
 
-### Autores
+## Autores
 - [Eduarda de Jesus](www.linkedin.com/in/eduarda-silva-4aa274331)
 - [Isabelly Lima](https://www.linkedin.com/in/isabelly-silva-a02952322/)
 - [Laura Sofia](https://www.linkedin.com/in/laura-sofia-0a5b06326/)
